@@ -1,0 +1,10 @@
+quarter,assumed_gross_headwind_m,assumed_mitigation_rate_pct,assumed_mitigation_effect_m,assumed_net_shock_m,counterfactual_profit_without_intervention_m,actual_profit_m,implied_intervention_lift_m
+2021-Q4,0.0,0.0,0.0,0.0,14.0,14.0,0.0
+2022-Q1,0.0,0.0,0.0,0.0,10.0,10.0,0.0
+2022-Q2,5.5,0.0,0.0,5.5,6.0,6.0,0.0
+2022-Q3,5.4,20.0,1.08,4.32,6.92,8.0,1.08
+2022-Q4,5.6,40.0,2.24,3.36,9.76,12.0,2.24
+2023-Q1,6.0,60.0,3.6,2.4,13.4,17.0,3.6
+2023-Q2,6.3,75.0,4.73,1.58,15.27,20.0,4.73
+2023-Q3,6.55,85.0,5.57,0.98,17.43,23.0,5.57
+2023-Q4,6.9,95.0,6.55,0.35,21.45,28.0,6.55
