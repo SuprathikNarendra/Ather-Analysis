@@ -1,4 +1,6 @@
-# Financial Strategy Response to 2022 Subsidy Reduction
+# Ather-Analysis
+
+Assumption-based financial case study on responding to the 2022 subsidy cut. Built with Python (`pandas`, `numpy`, `matplotlib`) to model KPIs, forecast-vs-actual reconciliation, SWOT priorities, and intervention uplift via counterfactuals.
 
 ## Rebuild With Python
 Run this to regenerate all datasets and visuals:
@@ -33,8 +35,7 @@ jupyter notebook /Applications/ather-analysis/financial-subsidy-response-case-st
 ## Executive Deck Content
 Stakeholder summary:
 - `presentation/executive_summary.md`
-- Visual explainer:
-  `visuals/VISUAL_GUIDE.md`
+- Visual explainer: `visuals/VISUAL_GUIDE.md`
 
 ## Project Overview
 This project analyzes the financial impact of a 2022 government subsidy reduction and demonstrates how machine learning based forecasting and cross-functional strategy improved operational efficiency, profitability, and cash flow.
